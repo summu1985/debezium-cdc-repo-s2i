@@ -1,0 +1,4 @@
+com/redhat/demo/debeziumcdc/repository/ExpenseRepository.class
+com/redhat/demo/debeziumcdc/entities/Expenses.class
+com/redhat/demo/debeziumcdc/controller/ExpensesController.class
+com/redhat/demo/debeziumcdc/Application.class
